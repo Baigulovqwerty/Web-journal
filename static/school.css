@@ -1,0 +1,14 @@
+main {
+	max-width: none;
+}
+.card {
+	margin-top: 30px;
+}
+.card-body {
+    text-align: center;
+	height: 100px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+

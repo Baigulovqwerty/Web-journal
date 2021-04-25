@@ -1,0 +1,21 @@
+.right {
+	float: right;
+}
+
+.tittle a{
+	font-size: 1.25rem;
+	margin-top: 0;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.logout input{
+	float: right;
+}
+.info {
+	margin-top: 30px;
+}
+.info .row {
+	margin-bottom: 5px;
+}
